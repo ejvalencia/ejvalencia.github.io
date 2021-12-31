@@ -1,1 +1,11 @@
+exclude:
+- Gemfile
+
+#Site settings
 theme: jekyll-theme-minimal
+title: "Esteban J. Valencia, MPH"
+encoding: utf-8
+lang: en-US
+url: "https://ejvalencia.github.io"
+#repo: "https://github.com/jlgodwin/jlgodwin.github.io"
+email: "ejvalen@student.ubc.ca"

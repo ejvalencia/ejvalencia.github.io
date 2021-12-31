@@ -12,3 +12,22 @@ lang: en-US
 url: "https://ejvalencia.github.io"
 #repo: "https://github.com/ejvalencia/ejvalencia.github.io"
 email: "ejvalen@student.ubc.ca"
+
+#plugins:
+#- jekyll-sitemap
+#- jekyll-mentions
+#- jekyll-paginate
+#- jekyll-seo-tag
+#- jekyll-redirect-from
+#- jekyll-default-layout
+#- jekyll-feed
+#- jemoji
+#- jekyll-remote-theme
+
+# Site navigation
+navigation_header:
+ Home: /
+#- title: "CV"
+#  url: ./CV.pdf
+#- title: "Google Scholar"
+#  url: https://scholar.google.com/citations?user=_KfuPbwAAAAJ&hl=en&inst=17001591832933267808&oi=ao">Google Scholar

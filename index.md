@@ -1,5 +1,5 @@
 ---
-title: Esteban J. Valencia, MPH
+title: Esteban J. Valencia
 layout: default
 ---
 

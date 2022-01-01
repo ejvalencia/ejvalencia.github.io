@@ -3,10 +3,12 @@ exclude:
 
 #Site settings
 theme: jekyll-theme-minimal
-title: "Esteban J. Valencia, MPH"
+title: "Esteban J. Valencia"
 description: >
   <a href="https://scholar.google.com/citations?user=_KfuPbwAAAAJ&hl=en&inst=17001591832933267808&oi=ao">Google Scholar</a> | <a href="./valencia_cv_12-2021.pdf">CV</a> <br />
-  PhD Student
+  PhD Student <br />
+  School of Population and Public Health
+  University of British Columbia
 encoding: utf-8
 lang: en-US
 url: "https://ejvalencia.github.io"

@@ -3,12 +3,13 @@ exclude:
 
 #Site settings
 theme: jekyll-theme-dinky
-title: "Esteban J. Valencia"
-encoding: utf-8
+title: "Esteban J. Valencia, MPH"
+description: Queer PhD Student (They/Them), critical epidemiology, social demography
+show_downloads: true
 lang: en-US
-url: "https://ejvalencia.github.io"
-#repo: "https://github.com/ejvalencia/ejvalencia.github.io"
-email: "ejvalen@student.ubc.ca"
+encoding: utf-8
+email: "ejvalencia@ubc.ca"
+url: "https//ejvalencia.github.io"
 
 #plugins:
 #- jekyll-sitemap

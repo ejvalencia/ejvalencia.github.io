@@ -2,7 +2,7 @@ exclude:
 - Gemfile
 
 #Site settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 title: "Esteban J. Valencia"
 encoding: utf-8
 lang: en-US

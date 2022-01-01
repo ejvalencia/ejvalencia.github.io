@@ -4,9 +4,6 @@ exclude:
 #Site settings
 theme: jekyll-theme-minimal
 title: "Esteban J. Valencia"
-description: >
-  <a href="https://scholar.google.com/citations?user=_KfuPbwAAAAJ&hl=en&inst=17001591832933267808&oi=ao">Google Scholar</a> | <a href="./valencia_cv_12-2021.pdf">CV</a> <br />
-  Queer epidemiologist, demogrpaher, and PhD Student (They/Them)
 encoding: utf-8
 lang: en-US
 url: "https://ejvalencia.github.io"

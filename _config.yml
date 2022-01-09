@@ -3,7 +3,7 @@ exclude:
 
 #Site settings
 theme: jekyll-theme-dinky
-title: "Esteban J. Valencia, MPH"
+#title: "Esteban J. Valencia, MPH"
 description: Queer PhD Student (They/Them), critical epidemiology, social demography
 show_downloads: true
 lang: en-US

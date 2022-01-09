@@ -3,9 +3,12 @@ exclude:
 
 #Site settings
 theme: jekyll-theme-dinky
-title: "Queer PhD Student, Critical Epidemiology, Social Demography"
-description: (They/Them)
-show_downloads: true
+title: ""
+description: 
+ Queer PhD Student (They/Them) <br />
+ Critical Epidemiology <br />
+ Social Demography
+show_downloads: FALSE
 lang: en-US
 encoding: utf-8
 email: "ejvalencia@ubc.ca"

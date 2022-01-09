@@ -3,32 +3,14 @@ exclude:
 
 #Site settings
 theme: jekyll-theme-minimal
-title: Esteban J. Valencia, MPH (They/Them)
+title: " "
 description:
  Critical Epidemiology <br />
  Social Demography <br />
  Prison Abolition <br />
+ <br />
  <a href = "https://github.com/ejvalencia"> GitHub </a> | <a href = "https://scholar.google.com/citations?user=_KfuPbwAAAAJ&hl=en&inst=17001591832933267808&oi=ao"> Google Scholar </a> | <a href = "./valencia_cv_01-2022.pdf"> CV </a>
 lang: en-US
 encoding: utf-8
 email: "ejvalencia@student.ubc.ca"
 url: "https//ejvalencia.github.io/"
-
-#plugins:
-#- jekyll-sitemap
-#- jekyll-mentions
-#- jekyll-paginate
-#- jekyll-seo-tag
-#- jekyll-redirect-from
-#- jekyll-default-layout
-#- jekyll-feed
-#- jemoji
-#- jekyll-remote-theme
-
-# Site navigation
-navigation_header:
- Home: /
-#- title: "CV"
-#  url: ./CV.pdf
-#- title: "Google Scholar"
-#  url: https://scholar.google.com/citations?user=_KfuPbwAAAAJ&hl=en&inst=17001591832933267808&oi=ao">Google Scholar

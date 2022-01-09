@@ -6,12 +6,11 @@ theme: jekyll-theme-minimal
 title: " "
 logo: "/valencia_headshot.jpeg"
 description:
- <a href = "https://scholar.google.com/citations?user=_KfuPbwAAAAJ&hl=en&inst=17001591832933267808&oi=ao"> Google Scholar </a> | <a href = "./valencia_cv_01-2022.pdf"> CV </a> | <a href = "https://github.com/ejvalencia"> GitHub </a> <br />
- <br />
  Queer Epidemiologist (They/Them). Social Demographer. Prison Abolitionist.
+ <br />
+ <br />
+ <a href = "https://scholar.google.com/citations?user=_KfuPbwAAAAJ&hl=en&inst=17001591832933267808&oi=ao"> Google Scholar </a> | <a href = "./valencia_cv_01-2022.pdf"> CV </a>
 lang: en-US
 encoding: utf-8
 email: "ejvalencia@student.ubc.ca"
 url: "https//ejvalencia.github.io/"
-github:
-  is_project_page: false

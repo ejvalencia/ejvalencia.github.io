@@ -3,17 +3,15 @@ exclude:
 
 #Site settings
 theme: jekyll-theme-minimal
-title: Esteban J. Valencia
-description:
- Queer PhD Student <br />
- Critical Epidemiology <br />
- Social Demography
-show_downloads: FALSE
-github:
-  cv_url: .valencia_cv-01.2022.pdf
+title: 
+Critical Epidemiology <br />
+Social Demography <br />
+Prison Abolition
+description: >
+ <a href = "https://github.com/ejvalencia"> GitHub </a> | <a href = "https://scholar.google.com/citations?user=_KfuPbwAAAAJ&hl=en&inst=17001591832933267808&oi=ao"> Google Scholar </a> | <a href = "./valencia_cv_01-2022.pdf"> CV </a>
 lang: en-US
 encoding: utf-8
-email: "ejvalencia@ubc.ca"
+email: "ejvalencia@student.ubc.ca"
 url: "https//ejvalencia.github.io/"
 
 #plugins:

@@ -9,7 +9,7 @@ show_downloads: true
 lang: en-US
 encoding: utf-8
 email: "ejvalencia@ubc.ca"
-url: "https//ejvalencia.github.io"
+url: "https//ejvalencia.com"
 
 #plugins:
 #- jekyll-sitemap

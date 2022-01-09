@@ -3,10 +3,10 @@ exclude:
 
 #Site settings
 theme: jekyll-theme-minimal
-title: Esteban J. Valencia
+title: ""
 logo: "/valencia_headshot.jpeg"
 description:
- Critical Epidemiology, Social Demography, Prison and Police Abolition
+ Queer PhD Student (They/Them), Critical Epidemiologist, Social Demographer, Prison and Police Abolitionist
  <br />
  <a href = "https://scholar.google.com/citations?user=_KfuPbwAAAAJ&hl=en&inst=17001591832933267808&oi=ao"> Google Scholar </a> | <a href = "./valencia_cv_01-2022.pdf"> CV </a>
 lang: en-US

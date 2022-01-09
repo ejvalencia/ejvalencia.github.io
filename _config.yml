@@ -3,7 +3,7 @@ exclude:
 
 #Site settings
 theme: jekyll-theme-dinky
-title: ""
+title: " "
 description: 
  Queer PhD Student (They/Them) <br />
  Critical Epidemiology <br />
@@ -12,7 +12,7 @@ show_downloads: FALSE
 lang: en-US
 encoding: utf-8
 email: "ejvalencia@ubc.ca"
-url: "https//ejvalencia.github.io"
+url: "https//ejvalencia.github.io/"
 
 #plugins:
 #- jekyll-sitemap

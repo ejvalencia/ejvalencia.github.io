@@ -3,11 +3,11 @@ exclude:
 
 #Site settings
 theme: jekyll-theme-minimal
-title: 
-Critical Epidemiology <br />
-Social Demography <br />
-Prison Abolition
-description: >
+title: Esteban J. Valencia, MPH (They/Them)
+description:
+ Critical Epidemiology <br />
+ Social Demography <br />
+ Prison Abolition <br />
  <a href = "https://github.com/ejvalencia"> GitHub </a> | <a href = "https://scholar.google.com/citations?user=_KfuPbwAAAAJ&hl=en&inst=17001591832933267808&oi=ao"> Google Scholar </a> | <a href = "./valencia_cv_01-2022.pdf"> CV </a>
 lang: en-US
 encoding: utf-8

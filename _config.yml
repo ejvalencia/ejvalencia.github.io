@@ -8,7 +8,9 @@ title:
  Critical Epidemiology <br />
  Social Demography
 description: 
-show_downloads: FALSE
+show_downloads: TRUE
+github:
+  cv_url: .valencia_cv-01.2022.pdf
 lang: en-US
 encoding: utf-8
 email: "ejvalencia@ubc.ca"

@@ -4,6 +4,7 @@ exclude:
 #Site settings
 theme: jekyll-theme-minimal
 title: " "
+logo: "/valencia_headshot.jpg"
 description:
  Critical Epidemiology <br />
  Social Demography <br />

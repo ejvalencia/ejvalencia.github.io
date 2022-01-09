@@ -12,3 +12,5 @@ lang: en-US
 encoding: utf-8
 email: "ejvalencia@student.ubc.ca"
 url: "https//ejvalencia.github.io/"
+github:
+  is_project_page: false

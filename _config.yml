@@ -3,11 +3,11 @@ exclude:
 
 #Site settings
 theme: jekyll-theme-dinky
-title:
+title: [Title Here]
+description:
  Queer PhD Student <br />
  Critical Epidemiology <br />
  Social Demography
-description: 
 show_downloads: TRUE
 github:
   cv_url: .valencia_cv-01.2022.pdf

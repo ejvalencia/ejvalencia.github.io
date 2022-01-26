@@ -3,7 +3,7 @@ title: ejvalencia.github.io
 layout: default
 ---
 
-# Esteban J. Valencia, MPH
+# About Me
 
 Hello! I'm Esteban, a first-year PhD student in Population and Public Health at the [University of British Columbia](https://www.spph.ubc.ca/). My research interests revolve around two general questions: 
 

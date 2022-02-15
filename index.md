@@ -5,7 +5,7 @@ layout: default
 
 # Esteban J. Valencia, MPH
 
-Hello! I'm a first-year PhD student in Population and Public Health at the [University of British Columbia](https://www.spph.ubc.ca/). My research interests revolve around two general questions: 
+Hello! I'm a first-year PhD student in Population and Public Health at the [University of British Columbia](https://www.spph.ubc.ca/). My research interests revolve around two general questions:
 
 1. How do criminal-legal system operations (e.g., policing, incarceration, immigration enforcement, etc.) affect population health, particularly along axes of race-ethnicity, gender, and geography?
 2. How can epidemiologic and demographic research methods advance the projects of prison and police abolition?

@@ -3,7 +3,7 @@ exclude:
 
 #Site settings
 theme: jekyll-theme-minimal
-title: ""
+title: " "
 logo: "/valencia_headshot.jpeg"
 description: >
  <a href = "https://github.com/ejvalencia" target = "_blank"> GitHub </a> | 
@@ -12,9 +12,9 @@ description: >
  <br />
  <br />
  Queer PhD Student (They/Them) <br />
- Critical Epidemiologist <br />
- Social Demographer <br />
- Prison Abolitionist <br />
+ Critical Epidemiology <br />
+ Social Demography <br />
+ Prison Abolition <br />
 lang: en-US
 encoding: utf-8
 email: "ejvalencia@student.ubc.ca"

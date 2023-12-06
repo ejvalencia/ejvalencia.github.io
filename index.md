@@ -13,7 +13,7 @@ My name is Esteban (They/Them) and I am a third-year PhD Candidate in Population
 2.	How can we leverage epidemiologic and demographic research methods to advance the health and welfare of incarcerated peoples?
 3.	How can we adapt quantitative research methods to better align with the needs of community-based and community-driven research?
 
-## Dissertation Research
+### Dissertation Research
 
 My dissertation will examine the complex health and service needs of provincially incarcerated women in British Columbia, and is organized around three aims. The first aim is to describe how the prevalence of physical, mental health, and substance-use related morbidities have changed over time -- particularly in relation to shifting correctional healthcare policy and the COVID-19 pandemic. The second aim is to characterize the clustering of individual morbidities into unique profiles of health and service needs. The third aim is to review how centeralizing correctional heatlhcare governance within Ministries of Health can improve the identification of healthcare needs among provincially incarcerated people. The overall goal of my research is to inform the development of responsive, coordianted support services for women entering and exiting the provincial carceral system. This work is supported by a [2023 CIHR Health Systems Impact Fellowship](https://cihr-irsc.gc.ca/e/53687.html) in partnership with BC Mental Health and Substance Use Services.
 

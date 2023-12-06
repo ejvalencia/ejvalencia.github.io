@@ -7,7 +7,7 @@ layout: default
 
 Hello!
 
-My name is Esteban (They/Them) and I am a third-year PhD Candidate in Population and Public Health at the [University of British Columbia](https://www.spph.ubc.ca/), working under the supervision of [Dr. Patricia Janssen](https://www.bcchr.ca/pjanssen). Presently, my research interests revolve around three related lines of inquiry:
+My name is Esteban (They/Them) and I am a third-year PhD Student in Population and Public Health at the [University of British Columbia](https://www.spph.ubc.ca/), working under the supervision of [Dr. Patricia Janssen](https://www.bcchr.ca/pjanssen). Presently, my research interests revolve around three related lines of inquiry:
 
 1.	How do criminal-legal system policies and practices affect population health outcomes, particularly along axes of race and ethnicity, gender, and geography?
 2.	How can we leverage epidemiologic and demographic research methods to advance the health and welfare of incarcerated peoples?
